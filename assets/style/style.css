@@ -1,0 +1,12 @@
+/* Estilos generales*/
+body{
+    text-align: center;
+}
+
+
+/*Estrilos para mi imagen */
+img{
+    max-width: 100%;
+    height: auto;  /*se ajusta dependiendo del contenedor*/
+}
+
